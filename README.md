@@ -1,4 +1,4 @@
-# documentation-iot
+# Documentation for IoT installation
 
 # Remote access
 
